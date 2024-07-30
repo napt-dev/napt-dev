@@ -1,6 +1,6 @@
 Hello!
 
-I am a begginner programmer and have light experience in HTML and CSS and plan to expand my learning as I go.
+I am a beginner programmer and have light experience in HTML, CSS and Java and plan to expand my learning as I go.
 This profile will be a dump of all my projects, and if you have any suggestions on how to improve my code feel free to DM me!
 
 <!---
